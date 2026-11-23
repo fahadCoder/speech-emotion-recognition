@@ -1,4 +1,3 @@
-# speech-emotion-recognition
 # Speech Emotion Recognition
 
 A Python-based machine learning project for recognizing emotions from speech audio. The implementation is provided in a Jupyter notebook.
